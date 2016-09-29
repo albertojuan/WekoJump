@@ -8,8 +8,6 @@ class Platform
 		this.y = posY;
 		this.width = width;
 		this.heigth = heigth;
-		
-		
 	}
 }
 
